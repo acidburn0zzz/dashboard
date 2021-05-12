@@ -10,7 +10,7 @@
     "react-scripts": "0.9.5"
   },
   "dependencies": {
-    "chart.js": "2.5.0",
+    "chart.js": "2.9.4",
     "react": "^15.5.4",
     "react-addons-css-transition-group": "15.5.2",
     "react-addons-transition-group": "15.5.2",
